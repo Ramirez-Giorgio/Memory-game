@@ -1,4 +1,4 @@
-let carte = [1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10];//i numeri nelle carte 10 coppie
+let carte = [10,6,1,4,7,2,8,5,9,3,1,3,2,10,4,7,9,5,6,8];//i numeri nelle carte 10 coppie
 
 let primacarta = "";//numero della prima e seconda carta inizializzati
 let seccarta = "";
